@@ -9,7 +9,7 @@ N/A
 
 ## Usage
 
-This prework study guide is geared towards people who want to learn about web development. It covers 4 differnt categories including HTML, CSS, Git, and Javascript, each with in depth notes about the category.
+This prework study guide is geared towards people who want to learn about web development. It covers 4 different categories including HTML, CSS, Git, and Javascript, each with in depth notes about the category. To use this guide you can read the notes under each category or use the command ctrl shift I to see a list of what the website offers and what you should do first.
 
 
 ## Credits
